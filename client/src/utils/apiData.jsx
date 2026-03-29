@@ -1,0 +1,1 @@
+export const apiData = "http://localhost:8080";
